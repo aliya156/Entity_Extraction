@@ -100,3 +100,10 @@ Zero-shot learning is viable for real-world applications, especially where label
 Challenges like ambiguity, contextual errors, and fine-grained classification remain, but can be addressed with further improvements.
 The research opens exciting possibilities for AI-driven entity extraction, particularly in domains like healthcare, finance, and cybersecurity.
 
+Example Output:
+Input Medical Text:
+"The patient has diabetes and was prescribed metformin."
+
+Supervised Model Predictions:  Entity Type     	Extracted Entity
+                                Disease	          Diabetes
+                                Medication	       Metformin
